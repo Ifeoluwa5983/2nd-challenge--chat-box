@@ -17,6 +17,7 @@ div > span {
 .text{
     margin-top: 11rem;
     margin-bottom: 2rem;
+    font-weight: 700;
     color: hsl(271, 36%, 24%);
 }
 p{
@@ -216,6 +217,7 @@ h3{
         margin-top: 13rem;
         margin-bottom: 2rem;
         text-align: center;
+        font-weight: 700;
     }
     p{
         margin-right: 0rem;
